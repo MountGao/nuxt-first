@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        myapp
+        myApp
       </h1>
       <h2 class="subtitle">
         My first Nuxt.js project --mode: SPA
