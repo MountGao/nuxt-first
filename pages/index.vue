@@ -23,6 +23,9 @@
         >
           GitHub
         </a>
+        <nuxt-link to="/user">
+          <span class="button--grey">/user</span>
+        </nuxt-link>
       </div>
     </div>
   </div>
